@@ -7,6 +7,12 @@
     },
     {
       "Claim": "mdon:@petersuber@fediscience.org"
+    },
+    {
+      "Claim": "gh:petersuber"
+    },
+    {
+      "Claim": "post:petersuber"
     }
   ],
   "IdDisclaims": [
@@ -23,11 +29,11 @@
   "Signature": {
     "Authority": "https://whosum.com",
     "PublicKey": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEApF0NC9C13limzP9H5\u002BcXoWEddOfjDdysecEWNhNxS3yCWdRJjsCpIWY3euUxIFWw9W9Zkbo1tx8YbnLVdCPd7qORelTZZR5I9IvQdsyyqZIeAuw4xk/VcK119Kme13cqhsjOtgCrdekjz5YEklZqXdZKclJMc2fqHjOfHl07lYXWmqx8FxCUjjGCkBcr4WZD/uvs0SXRACkXS01bP0Wbao1sHxyFoADHV5i8Yvg2o32Sy37DMMMOfjO8ZpqqwNKVEs04gGL\u002BnGkDqNP/6lIaTinrzCJe57qcorGcVlWGdV4nC5uMgIgqZ/7pzrCHF5WbXai3g3AObmPJ5eG8TCTsrQIDAQAB",
-    "Nonce": "733e61feefc21b08176472b4",
-    "Timestamp": "2023-04-06T15:59:08Z",
-    "Signature": "788bd1d7875db27217c0a0eef49b57953a87422179e392bde4b6e2fc67ab3ab2586b7651fd46276ebcc2de96aa415f62896c3cf85009ec7492555a057ab94e4d239265efdbc867fc7eea68b383df015ad4e3d970ee2302d9c9abaff73e461b925157abc02de66bc6414f05dc700b19c2bc00109ed53fefc5e17f46187887fa13ba183a22b758d0c86200fbb3cece89d66558585229c151303788be4a96903640df177e8d00eb22efc4a237670157236d59d1910172f2037bded98d7792ecac7dfc1f8649b5b757d681389936e0fdc38c8f41f11541b0b15b95cc8cc469346041c15c9787f5d9f892992c6c9f8b5becc02c7fb6b2d244f39fcb88fcd6f8e2d490"
+    "Nonce": "1f99192d42dd32935c553c10",
+    "Timestamp": "2023-04-06T16:14:40Z",
+    "Signature": "0ab4b0372b7af48f0b26281ae4c1835cb5430f7071862421870d70d6f38741840bcf02ed813cffa9892f62d34bc7d90dee6bfac152ebddf5ffb134e72b599d492dd8f3de32dfeb0e550ccf863c974aa66ca1626a2fc960e971b8a670a3ce146f5146eef8b8498cef99238cc9e13458f69da09483581999e03609114dcc43c116e137b4ef5d60e4e67d0e65437b1eb20b0a4ccdf16e4259ba546b298176a3c38e5c30b4a14855d767a49abcf5d64ffb2404ad8f4fc04133c49bb362ab7fbef57e422fcfe6595f155215fde8afdfd2d7ec63bedd5d90bba2353f31f6d8cff872ed22715bc80ee5f9a1ad094a84e8af92338021ff8eea99f760b5d66a82d91c5b87"
   },
   "AgreedToTerms": true,
-  "ContentSha256": "4412b525b2b9d46c31a16e47afcbda364592148d4d5f778afccd992288b289f1",
-  "ContentToHash": "v1|mdon:@petersuber@fediscience.org,pat:no-account,spout:no-account,ss:no-account,t:petersuber|2023-04-06T15:52:00Z"
+  "ContentSha256": "5918dcd7289c261e80a0a33764dcfcd9f100072fbe4ddab32f82812fd56a9e2b",
+  "ContentToHash": "v1|gh:petersuber,mdon:@petersuber@fediscience.org,pat:no-account,post:petersuber,spout:no-account,ss:no-account,t:petersuber|2023-04-06T15:52:00Z"
 }
